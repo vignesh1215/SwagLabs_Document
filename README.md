@@ -1,2 +1,2 @@
-# SwagLabs_Document
+# My_Document
 this repository is to develop a purchase application
